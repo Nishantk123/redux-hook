@@ -1,0 +1,49 @@
+.header {
+  border: 3px solid red;
+  height: 50px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 800;
+  color: green;
+}
+
+.section1 {
+  border: 3px solid red;
+  margin-top: 10px;
+  height: 200px;
+}
+
+.box {
+  border: 3px solid green;
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  display: inline-block;
+  padding: 10px;
+}
+.testcircle {
+  border: 2px solid blue;
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+  border-radius: 100%;
+  padding: 20px;
+  display: inline-block;
+}
+.rect {
+  border: 2px solid blue;
+  height: 100px;
+  width: 500px;
+  display: inline-block;
+  padding: 20px;
+}
+
+.img-container{
+  height: 150px;
+  width: 100%;
+  overflow: hidden;
+}
+.spacex-img{
+  height: 150px;
+  width: 100%;
+}
